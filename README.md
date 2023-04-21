@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saqlain024/Portfolio---Bringing-ideas-to-life](https://github.com/saqlain024/Portfolio---Bringing-ideas-to-life)
 
-- 📝 I regularly write articles on [https://www.quora.com/profile/Saklain-Ahmad-3](https://www.quora.com/profile/Saklain-Ahmad-3)
+- 📝 I write articles on [https://www.quora.com/profile/Saklain-Ahmad-3](https://www.quora.com/profile/Saklain-Ahmad-3)
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **saklainhmd@gmail.com**
+- 📫 How to reach me **discipline.saqlain@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15Tu2KzMuL5aIZbx4hPpOPQvcVFp3gymB/view?usp=share_link](https://drive.google.com/file/d/15Tu2KzMuL5aIZbx4hPpOPQvcVFp3gymB/view?usp=share_link)
 
