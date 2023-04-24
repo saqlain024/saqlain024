@@ -11,11 +11,7 @@
 
 - 🌱 I’m currently learning **React Js Framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/saqlain024/Portfolio---Bringing-ideas-to-life](https://github.com/saqlain024/Portfolio---Bringing-ideas-to-life)
-
 - 📝 I write articles on [https://www.quora.com/profile/Saklain-Ahmad-3](https://www.quora.com/profile/Saklain-Ahmad-3)
-
-- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **discipline.saqlain@gmail.com**
 
